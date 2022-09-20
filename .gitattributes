@@ -36,6 +36,9 @@
 *.hbs linguist-detectable=true
 *.hbs linguist-documentation=false
 *.hbs linguist-language=Handlebars
+*.handlebars linguist-detectable=true
+*.handlebars linguist-documentation=false
+*.handlebars linguist-language=Handlebars
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -169,6 +172,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Monday, September 19th at 2:10 pm PST)
-# Line count (including blank lines and compiler line): 175
+# File version: 6 (2022, Monday, September 19th at 7:28 pm PST)
+# Line count (including blank lines and compiler line): 178
 # End of script
